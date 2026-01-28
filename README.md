@@ -1,3 +1,5 @@
+![Restaurant Performance Analytics Dashboard](dashboard_overview.png)
+
 # 🍽️ Restaurant Performance Analytics Dashboard
 
 An interactive **Power BI dashboard** designed to analyze and visualize restaurant business performance using key financial, customer, and operational metrics.
